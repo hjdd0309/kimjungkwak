@@ -1,3 +1,6 @@
 config.py
 __pycache__/
 *.pyc
+번개장터/
+이미지 변환/
+중고나라/
