@@ -1,0 +1,13 @@
+[정보] 기존 샘플 목록을 재사용합니다: C:\Users\hjdd\Desktop\개발\중고이미지_크롤링\이미지 변환\sampled_files.json
+============================================================
+총 100장 변환 예정
+이미지당 예상 비용은 대략 $0.07 (총 예상 비용 약 $7.00)
+※ 실제 단가는 모델/화질/해상도에 따라 다르니 최신 가격표를 확인하세요.
+============================================================
+[성공] 1-ai.png (bunjang/img_940d12d5b53c8480b264534c87d2e3ae.jpg)
+[성공] 2-ai.png (bunjang/img_1f8ddadc47b8d098d2417b5f2928441d.jpg)
+[성공] 3-ai.png (bunjang/img_0a71d1bfc2508a4910398510cf910b32.jpg)
+[성공] 4-ai.png (bunjang/img_bc67379b943c0ff598af300ef75179bb.jpg)
+[성공] 5-ai.png (bunjang/img_4371a08f0af88013e2c00b841f68429d.jpg)
+[성공] 6-ai.png (bunjang/img_39f09971fc9dd347a6f67735f6b25392.jpg)
+[성공] 7-ai.png (bunjang/img_3675003631003561882.jpg)
